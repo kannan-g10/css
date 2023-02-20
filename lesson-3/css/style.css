@@ -1,0 +1,18 @@
+/* rgb ---> red, green, blue
+rgba ---> alpha channel basically means transparency
+hexadecimal ---> #ff00000 == #redgreenblue 
+hsl ---> hue, saturation, lightness
+important websites == cooloers.co and webaim.org for checking contrast color*/
+
+body {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: #fefae0;
+}
+
+p {
+    color: #112A46;
+}
+
+/* 112A46 */
