@@ -1,0 +1,22 @@
+/* rem --> root element and relative to the browser 1rem = 16px
+   em --> its relative to rem. rem grows it will grow. 
+*/
+
+body {
+  height: 100%;
+}
+
+h1 {
+  border: 2px dashed red;
+  width: 50%;
+  font-size: 3rem;
+  padding: .5rem;
+}
+
+main {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 2rem;
+}
