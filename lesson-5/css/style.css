@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    border: 5px double skyblue;
+    font-size: 1.5rem;
+    padding: 1.5em;
+    margin: 1.5em;
+    outline: 5px solid burlywood;
+    outline-offset: -20px;
+}
+
+.circle {
+    margin: 3rem auto;
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    border: 2px solid brown;
+    border-radius: 50px;
+    outline: 2px solid rgb(83, 135, 231);
+    outline-offset: .25rem;
+}
